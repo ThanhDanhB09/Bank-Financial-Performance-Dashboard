@@ -5,7 +5,7 @@
 This project delivers an end-to-end Business Intelligence (BI) solution that provides interactive, data-driven visibility into LPBank's financial health. It automates financial reporting, processes complex datasets, and pinpoints key operational insights to assist strategic decision-making.
 
 ## 📂 Data Source
-The raw dataset was sourced and consolidated from public financial statements available on the **Cophieu68** platform (`[cophieu68.vn](https://www.cophieu68.vn/quote/financial_detail.php?id=lpb&type=year)`). It includes comprehensive balance sheets and income statements spanning from 2019 to 2023, extracted automatically using Excel Web Queries.
+The raw dataset was sourced and consolidated from public financial statements available on the **Cophieu68** platform . It includes comprehensive balance sheets and income statements spanning from 2019 to 2023, extracted automatically using Excel Web Queries. https://www.cophieu68.vn/quote/financial_detail.php?id=lpb&amp;type=year
 
 ## 🛠 Tools & Technologies
 - **Power BI Desktop & Service**
